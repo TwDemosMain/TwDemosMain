@@ -1,0 +1,30 @@
+[submodule "other"]
+	path = other
+	url = https://github.com/TwDemosMain/other
+[submodule "ddrace_montage"]
+	path = ddrace_montage
+	url = https://github.com/TwDemosMain/ddrace_montage
+[submodule "zCatch"]
+	path = zCatch
+	url = https://github.com/TwDemosMain/zCatch
+[submodule "ubu_movie"]
+	path = ubu_movie
+	url = https://github.com/TwDemosMain/ubu_movie
+[submodule "survival"]
+	path = survival
+	url = https://github.com/TwDemosMain/survival
+[submodule "vanilla"]
+	path = vanilla
+	url = https://github.com/TwDemosMain/vanilla
+[submodule "fly"]
+	path = fly
+	url = https://github.com/TwDemosMain/fly
+[submodule "gores"]
+	path = gores
+	url = https://github.com/TwDemosMain/gores
+[submodule "fng"]
+	path = fng
+	url = https://github.com/TwDemosMain/fng
+[submodule "chilli_clanmovie"]
+	path = chilli_clanmovie
+	url = https://github.com/TwDemosMain/chilli_clanmovie
