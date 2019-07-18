@@ -1,9 +1,6 @@
 [submodule "other"]
 	path = other
 	url = https://github.com/TwDemosMain/other
-[submodule "ddrace_montage"]
-	path = ddrace_montage
-	url = https://github.com/TwDemosMain/ddrace_montage
 [submodule "zCatch"]
 	path = zCatch
 	url = https://github.com/TwDemosMain/zCatch
