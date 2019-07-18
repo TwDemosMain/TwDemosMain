@@ -14,5 +14,6 @@ cd %APPDATA%\Teeworlds\demos
 then clone the main and misc repo recursivly:
 ```
 git clone --recursive https://github.com/TwDemosMisc/TwDemosMisc
+git clone --recursive https://github.com/TwDemosDDrace/TwDemosDDrace
 git clone --recursive https://github.com/TwDemosMain/TwDemosMain
 ```
